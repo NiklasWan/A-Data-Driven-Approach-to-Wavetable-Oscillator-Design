@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+PySoundFile
+pyAudio
+psutil
+keras
+tensorflow
+librosa
+pillow
+imageio

@@ -18,7 +18,7 @@ interpolations without artifacts. The following GIF shows an exemplary interpola
 - A wavetable-oscillator framework for playback and automation of the wavetable-position
 
 ## Thesis
-[Creative-Technologies](http://www.creative-technologies.de/a-data-driven-ap…etable-synthesis/)
+[Creative-Technologies](http://www.creative-technologies.de/a-data-driven-approach-to-wavetable-synthesis/)
 
 ## Literature
 [1] Chris Donahue, Julian J. McAuley, and Miller Puckette. “Adversarial Audio Synthesis”. In: ICLR. 2018.
